@@ -1,12 +1,12 @@
 OUR BACKGROUND
 We're a team of highly motivated students from Engineering Physics and Electrical Engineering. We all are sophies and have completed various projects ranging from XLR8 and ITSP to RC Plane and Boeing Aeromodelling Competition.
-Our project got the 2nd prize in RC plane competition and we're chosen in the best 3 teams for ITSP too.
+Our project got the 2nd prize in RC plane competition and we were chosen in the best 3 teams for ITSP too.
 
 WHY WE CHOSE THIS PROJECT?
-This project has lot of scope for innovation and creativity and we believe we can come up with something new and exciting. Our basic objective for the project is to make highly integrated sensor for capturing the fluid movements of the hand as much as possible. Also we would take care so that the sensor is comfortable to wear and resistant to physical or environmental damage.
+This project has a lot of scope for creativity and innovation and we believe we can come up with something novel and marvellous. Our basic objective for the project is to make a highly integrated sensor for capturing the fluid movements of the hand as perfectly as possible. We will take meticulous care to design a sensor that is comfortable to put on and resistant to physical or environmental damage.
 
-Detailed Idea:
-We wish to integrate a central microprocessor in the glove which stores the curret state of various DOF's we're measuring and exports 
-the requested ones so that its compatible with any kind of gesture controlled device- be it a simple gripper or a drone or an XR accessory.
-We done a bit of research already to get the idea what this project entails. You can see our GitHub repository here:
+DETAILED IDEA:
+We wish to integrate a central microprocessor in the glove which stores the current state of various DOF's we're measuring and exports 
+the requested ones so that it's compatible with any kind of gesture-controlled device - be it a simple gripper or a drone or an XR accessory.
+We have already done a bit of research to get the idea what this project entails. You can see our GitHub repository here:
 https://github.com/AuroSoni/MakerSpace
