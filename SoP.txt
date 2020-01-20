@@ -13,5 +13,5 @@ https://github.com/AuroSoni/MakerSpace
 
 OUR VISION FOR THE PROJECT
 We wish to design a sensor that is intuitive so that it captures all the gestures of hand - flick, shake, tap, tilt, rotate, or circle. We envision the sensor to be incredibly serviceable in the following instances:
-1. For semi-paralysed or disabled people: to be able to do their daily chores by their own.
+1. For semi-paralysed or disabled people: to be able to do their daily chores on their own.
 2. Next-Gen gaming 
