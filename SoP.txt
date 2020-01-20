@@ -6,8 +6,7 @@ WHY WE CHOSE THIS PROJECT?
 This project has a lot of scope for creativity and innovation and we believe we can come up with something novel and marvellous. Our basic objective for the project is to make a highly integrated sensor for capturing the fluid movements of the hand as perfectly as possible. We will take meticulous care to design a sensor that is comfortable to put on and resistant to physical or environmental damage.
 
 DETAILED IDEA:
-We wish to integrate a central microprocessor in the glove which stores the current state of various DOF's we're measuring and exports 
-the requested ones so that it's compatible with any kind of gesture-controlled device - be it a simple gripper or a drone or an XR accessory. Our main focus would be to provide an API for the sensor so that the same sensor can be used with any remote controlled device.
+We wish to integrate a central microprocessor, along with other sensors in the glove, which stores the current state of various DOF's we're measuring and exports the requested ones so that it's compatible with any kind of gesture-controlled device - be it a simple gripper or a drone or an XR accessory. Our main focus would be to provide an API for the sensor so that the same sensor can be used with any remote controlled device.
 Also we can utilise our knowledge of machine learning to make the sensor more intuitive to use.
 We have already done a bit of research to get the idea what this project entails. You can see our GitHub repository here:
 https://github.com/AuroSoni/MakerSpace
