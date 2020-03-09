@@ -1,2 +1,1 @@
-1. https://circuitdigest.com/microcontroller-projects/diy-hand-gesture-controlled-robotic-arm-using-arduino-nano
-2. https://www.youtube.com/watch?v=xNSRmXKSI_4
+//Add useful links
